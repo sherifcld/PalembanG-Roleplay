@@ -1,0 +1,15 @@
+[Unit]
+Description=SA-MP Server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/samp
+ExecStart=/opt/samp/samp03svr
+Restart=always
+RestartSec=5
+User=root
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,886 @@
+[11/30/24 14:37:31] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[11/30/24 14:37:57] [WARNING] Unknown gateway event 'GUILD_AUDIT_LOG_ENTRY_CREATE'
+[11/30/24 14:39:00] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:02] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:03] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:04] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:06] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:07] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:08] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:10] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:11] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:12] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:14] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:15] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:19] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:20] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:21] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:23] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:24] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:25] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:27] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:28] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:29] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:31] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:32] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:34] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:36] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:37] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:38] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:40] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:41] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:42] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:44] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:45] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:46] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:47] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:49] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:50] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:51] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:52] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:54] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:55] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:56] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:58] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:39:59] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:00] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:02] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:03] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:05] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:06] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:07] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:08] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:10] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:11] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:13] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:14] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:15] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:17] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:18] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:21] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:22] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:23] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:25] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:26] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:27] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:29] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:30] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:31] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:32] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:34] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:35] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:36] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:38] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:39] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:40] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:42] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:43] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:44] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:46] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:47] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:48] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:49] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:51] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:52] [ERROR] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[11/30/24 14:40:57] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[11/30/24 14:41:35] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[11/30/24 14:55:46] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 17:50:40] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 17:55:29] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 17:59:18] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 18:01:34] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 18:02:42] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 18:08:43] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 18:10:53] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 18:19:52] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 18:32:52] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 18:40:43] [ERROR] Can't read from Discord websocket gateway: The semaphore timeout period has expired (121)
+[12/04/24 18:40:43] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:40:53] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:41:03] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:41:13] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:41:23] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:41:33] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:41:43] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:41:53] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:42:03] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:42:13] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:42:23] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:42:33] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:42:43] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:42:53] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:43:03] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:43:13] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:43:23] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:43:33] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 18:43:43] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:43:53] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:44:03] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:44:13] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 18:44:23] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[12/04/24 19:00:02] [ERROR] Can't read from Discord websocket gateway: The semaphore timeout period has expired (121)
+[12/04/24 19:00:02] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:00:12] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:00:22] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:00:32] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:00:42] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:00:52] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:01:02] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:01:12] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:01:22] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:01:32] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:01:42] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:01:52] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:02:02] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:02:12] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:02:22] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:02:32] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:02:42] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:02:52] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:03:02] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:03:12] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:03:22] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:03:32] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:03:42] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:03:52] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:04:02] [ERROR] Can't resolve Discord gateway URL 'gateway.discord.gg': The requested name is valid, but no data of the requested type was found (11004)
+[12/04/24 19:10:05] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/04/24 19:19:00] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/05/24 13:22:52] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1302910750616191047","last_message_id":"1311718773803192341","name":"𝑹𝒖𝒍𝒆𝒔","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302917248901451916","type":"role"},{"allow":0,"allow_new":"0","deny":3072,"deny_new":"3072","id":"1302910749944975390","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0,"version":1732269308199}"
+[12/05/24 13:27:45] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1312400223028645921","last_message_id":"1312401835881005056","name":"©twentcity-roleplay","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"1312400222890233916","type":"role"},{"allow":1024,"allow_new":"1024","deny":2048,"deny_new":"2048","id":"1312600791068184678","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0,"version":1733275843674}"
+[12/05/24 13:28:05] [WARNING] Unknown gateway event 'GUILD_AUDIT_LOG_ENTRY_CREATE'
+[12/05/24 13:28:29] [WARNING] Unknown gateway event 'GUILD_AUDIT_LOG_ENTRY_CREATE'
+[12/05/24 13:31:36] [ERROR] invalid JSON: expected "parent_id" in "{"flags":0,"id":"1312400223028645921","last_message_id":"1312401835881005056","name":"©twentcity-roleplay","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"1312400222890233916","type":"role"},{"allow":1024,"allow_new":"1024","deny":2048,"deny_new":"2048","id":"1312600791068184678","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0,"version":1733275843674}"
+[12/07/24 15:37:28] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:37:28] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:38:37] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:38:37] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:39:16] [ERROR] can't update guild member presence: user id "748773168784605234" not cached
+[12/07/24 15:40:07] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:40:07] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:41:06] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 15:41:28] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 15:41:32] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:41:32] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:42:54] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 15:43:00] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 15:43:06] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:43:07] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:43:35] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/07/24 15:44:32] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 15:44:35] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:44:36] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:45:36] [ERROR] Can't read from Discord websocket gateway: The semaphore timeout period has expired (121)
+[12/07/24 15:45:36] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 15:45:37] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 15:46:03] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 15:46:42] [WARNING] Error while shutting down SSL on HTTP connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[12/07/24 15:46:46] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:46:47] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:47:19] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/07/24 15:47:58] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 15:48:00] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 15:48:01] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 15:48:56] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/07/24 15:49:25] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/07/24 15:49:53] [ERROR] can't update guild member presence: user id "1297814412911968289" not cached
+[12/07/24 15:50:02] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:50:02] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:50:28] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 15:50:34] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 15:50:42] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 15:51:00] [ERROR] can't update guild member presence: user id "1277540879611068450" not cached
+[12/07/24 15:51:19] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 15:51:23] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:51:23] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:51:55] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 15:51:58] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/07/24 15:52:06] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/07/24 15:52:38] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/07/24 15:52:51] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 15:52:54] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:52:54] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 15:53:52] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 15:55:19] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 15:57:56] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 15:58:28] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 15:59:18] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 16:00:44] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 16:01:56] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/07/24 16:02:59] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 16:04:45] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 16:06:17] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 16:07:18] [ERROR] can't update guild member presence: user id "873586196981370911" not cached
+[12/07/24 16:09:16] [ERROR] can't update guild member presence: user id "1310039816448245797" not cached
+[12/07/24 16:09:29] [ERROR] can't update guild member presence: user id "873586196981370911" not cached
+[12/07/24 16:09:47] [ERROR] can't update guild member presence: user id "1310039816448245797" not cached
+[12/07/24 16:09:47] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 16:10:10] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 16:10:28] [ERROR] can't update guild member presence: user id "1310039816448245797" not cached
+[12/07/24 16:10:30] [ERROR] can't update guild member presence: user id "1310039816448245797" not cached
+[12/07/24 16:11:27] [ERROR] can't update guild member presence: user id "1255788423038636132" not cached
+[12/07/24 16:11:57] [ERROR] can't update guild member presence: user id "1255788423038636132" not cached
+[12/07/24 16:11:57] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 16:13:15] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 16:14:28] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/07/24 16:14:51] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 16:14:54] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/07/24 16:16:17] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 16:16:55] [ERROR] can't update guild member presence: user id "819227393721237504" not cached
+[12/07/24 16:17:01] [ERROR] can't update guild member presence: user id "1255788423038636132" not cached
+[12/07/24 16:17:46] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/07/24 16:19:00] [ERROR] can't update guild member presence: user id "819227393721237504" not cached
+[12/07/24 16:22:29] [ERROR] can't update guild member presence: user id "1310039816448245797" not cached
+[12/07/24 16:24:52] [ERROR] Can't read from Discord websocket gateway: The semaphore timeout period has expired (121)
+[12/07/24 16:24:52] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 16:25:22] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1314872798589751407/messages': end of stream
+[12/07/24 16:25:22] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 16:28:20] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 16:28:30] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 16:28:40] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/07/24 16:29:02] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 16:29:44] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 16:30:54] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 16:31:46] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 16:33:38] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/07/24 16:34:16] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 16:35:16] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 16:36:52] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 16:39:25] [ERROR] can't update guild member presence: user id "1292028525565579380" not cached
+[12/07/24 16:40:31] [ERROR] can't update guild member presence: user id "1292028525565579380" not cached
+[12/07/24 16:41:25] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:41:25] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:41:56] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/07/24 16:42:42] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 16:42:46] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:42:46] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:43:09] [ERROR] can't update guild member presence: user id "1205701724430401547" not cached
+[12/07/24 16:43:17] [ERROR] can't update guild member presence: user id "1205701724430401547" not cached
+[12/07/24 16:43:21] [ERROR] can't update guild member presence: user id "1205701724430401547" not cached
+[12/07/24 16:43:34] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 16:43:44] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 16:44:07] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/07/24 16:44:11] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 16:48:25] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:48:26] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:48:47] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/07/24 16:49:44] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 16:49:53] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:49:57] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:49:57] [ERROR] can't update guild member presence: user id "1274241619750817847" not cached
+[12/07/24 16:49:58] [ERROR] can't update guild member presence: user id "1274241619750817847" not cached
+[12/07/24 16:51:05] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 16:51:14] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:51:15] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:51:29] [ERROR] can't update guild member presence: user id "1290373361406574726" not cached
+[12/07/24 16:52:08] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/07/24 16:52:17] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 16:53:13] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:53:13] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:53:37] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 16:54:29] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 16:54:40] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:54:41] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:55:59] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 16:56:01] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 16:56:17] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:56:24] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:57:33] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 16:57:37] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:57:37] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:59:04] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 16:59:09] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 16:59:09] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:00:21] [ERROR] can't update guild member presence: user id "1251824667086426134" not cached
+[12/07/24 17:00:27] [ERROR] can't update guild member presence: user id "1251824667086426134" not cached
+[12/07/24 17:00:31] [ERROR] can't update guild member presence: user id "1290373361406574726" not cached
+[12/07/24 17:00:36] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:00:41] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:00:41] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:02:08] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:02:11] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:02:12] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:02:12] [ERROR] can't update guild member presence: user id "1277540879611068450" not cached
+[12/07/24 17:02:41] [ERROR] can't update guild member presence: user id "1277540879611068450" not cached
+[12/07/24 17:03:38] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:03:43] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:03:44] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:05:09] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:05:19] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:05:20] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:06:40] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:06:43] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:06:44] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:08:11] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:08:15] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:08:15] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:09:11] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/07/24 17:09:43] [ERROR] can't update guild member presence: user id "1031086258002333746" not cached
+[12/07/24 17:09:43] [ERROR] can't update guild member presence: user id "1202581272967520286" not cached
+[12/07/24 17:09:43] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:09:47] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:09:48] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:11:14] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:11:18] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:11:18] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:12:10] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:12:10] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:12:54] [ERROR] can't update guild member presence: user id "1240302982717898924" not cached
+[12/07/24 17:12:56] [ERROR] can't update guild member presence: user id "1240302982717898924" not cached
+[12/07/24 17:13:03] [ERROR] can't update guild member presence: user id "1240302982717898924" not cached
+[12/07/24 17:13:28] [ERROR] can't update guild member presence: user id "875242954430746657" not cached
+[12/07/24 17:15:23] [ERROR] can't update guild member presence: user id "1230081851142438963" not cached
+[12/07/24 17:15:31] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 17:15:52] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/07/24 17:15:55] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/07/24 17:15:56] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/07/24 17:16:16] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/07/24 17:16:19] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/07/24 17:16:20] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 17:16:24] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 17:16:25] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 17:16:37] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/07/24 17:17:00] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 17:17:08] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 17:18:31] [ERROR] can't update guild member presence: user id "875242954430746657" not cached
+[12/07/24 17:18:42] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 17:19:48] [ERROR] can't update guild member presence: user id "1259835538953736265" not cached
+[12/07/24 17:20:19] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:20:19] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:21:35] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:21:56] [ERROR] can't update guild member presence: user id "1250891104098979943" not cached
+[12/07/24 17:21:56] [ERROR] can't update guild member presence: user id "875242954430746657" not cached
+[12/07/24 17:22:02] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:22:05] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:22:10] [ERROR] can't update guild member presence: user id "1250891104098979943" not cached
+[12/07/24 17:22:14] [ERROR] can't update guild member presence: user id "668477247295979522" not cached
+[12/07/24 17:22:19] [ERROR] can't update guild member presence: user id "1277540879611068450" not cached
+[12/07/24 17:22:21] [ERROR] can't update guild member presence: user id "748773168784605234" not cached
+[12/07/24 17:22:21] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 17:22:50] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/07/24 17:23:00] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:23:00] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:24:20] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:24:24] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:24:24] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:25:41] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:25:57] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:25:58] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:25:58] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:27:13] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:27:33] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:27:35] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:28:45] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 17:28:50] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:28:51] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 17:30:09] [ERROR] can't update guild member presence: user id "1230081851142438963" not cached
+[12/07/24 17:30:14] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:30:56] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:31:31] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/07/24 17:31:32] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:33:08] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:33:31] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:33:31] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/07/24 17:34:03] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 17:34:37] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:34:49] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:34:58] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 17:35:08] [ERROR] can't update guild member presence: user id "1124542479283269672" not cached
+[12/07/24 17:35:10] [ERROR] can't update guild member presence: user id "1124542479283269672" not cached
+[12/07/24 17:35:19] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 17:35:28] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:36:03] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:36:20] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:37:35] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 17:38:25] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 17:39:03] [ERROR] can't update guild member presence: user id "1282354319697641528" not cached
+[12/07/24 17:39:31] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:39:36] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:39:49] [ERROR] can't update guild member presence: user id "1282354319697641528" not cached
+[12/07/24 17:40:35] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 17:41:35] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 17:42:25] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 17:45:55] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 17:45:56] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 17:45:57] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 17:48:15] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:48:16] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:48:25] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 17:48:34] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:48:34] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:48:40] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 17:54:15] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 17:54:37] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 17:55:38] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/07/24 17:55:51] [ERROR] can't update guild member presence: user id "1263818401579794533" not cached
+[12/07/24 17:56:43] [ERROR] can't update guild member presence: user id "1263818401579794533" not cached
+[12/07/24 17:57:01] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/07/24 17:57:01] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1314872798589751407/messages': end of stream
+[12/07/24 17:57:38] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/07/24 17:57:40] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 17:58:33] [ERROR] can't update guild member presence: user id "1276879736949182527" not cached
+[12/07/24 17:58:39] [ERROR] can't update guild member presence: user id "1282354319697641528" not cached
+[12/07/24 17:59:41] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 18:01:46] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 18:02:09] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 18:02:44] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 18:02:55] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 18:03:12] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 18:03:23] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 18:05:50] [ERROR] can't update guild member presence: user id "770185202042404864" not cached
+[12/07/24 18:07:06] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 18:07:37] [ERROR] can't update guild member presence: user id "1263818401579794533" not cached
+[12/07/24 18:07:46] [ERROR] can't update guild member presence: user id "1263818401579794533" not cached
+[12/07/24 18:07:54] [ERROR] can't update guild member presence: user id "1092143838082105435" not cached
+[12/07/24 18:07:56] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 18:07:59] [ERROR] can't update guild member presence: user id "770185202042404864" not cached
+[12/07/24 18:08:34] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 18:09:58] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:10:06] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:10:18] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 18:10:28] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/07/24 18:10:38] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/07/24 18:10:41] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 18:10:43] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[12/07/24 18:10:49] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/07/24 18:10:58] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:11:16] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:11:21] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:13:16] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 18:13:29] [ERROR] can't update guild member presence: user id "1092143838082105435" not cached
+[12/07/24 18:13:58] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/07/24 18:15:12] [ERROR] can't update guild member presence: user id "770185202042404864" not cached
+[12/07/24 18:15:17] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:15:51] [ERROR] can't update guild member presence: user id "1229811067668922372" not cached
+[12/07/24 18:16:02] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 18:17:22] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:18:00] [ERROR] can't update guild member presence: user id "1276879736949182527" not cached
+[12/07/24 18:21:12] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 18:23:23] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 18:23:32] [ERROR] can't update guild member presence: user id "1276879736949182527" not cached
+[12/07/24 18:23:39] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/07/24 18:24:46] [ERROR] Can't read from Discord websocket gateway: The semaphore timeout period has expired (121)
+[12/07/24 18:24:46] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 18:26:45] [ERROR] can't update guild member presence: user id "928595459495309312" not cached
+[12/07/24 18:26:52] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 18:28:01] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 18:29:52] [ERROR] can't update guild member presence: user id "928595459495309312" not cached
+[12/07/24 18:31:24] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:31:40] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:31:48] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:31:56] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 18:32:57] [ERROR] can't update guild member presence: user id "1092143838082105435" not cached
+[12/07/24 18:33:04] [ERROR] can't update guild member presence: user id "1235435490598060074" not cached
+[12/07/24 18:33:28] [ERROR] can't update guild member presence: user id "770185202042404864" not cached
+[12/07/24 19:06:57] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:06:59] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:07:11] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 19:07:16] [ERROR] can't update guild member presence: user id "897176241382240266" not cached
+[12/07/24 19:07:33] [ERROR] can't update guild member presence: user id "1235136807885209640" not cached
+[12/07/24 19:07:58] [ERROR] can't update guild member presence: user id "1092143838082105435" not cached
+[12/07/24 19:08:59] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/07/24 19:09:07] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:09:08] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:09:10] [ERROR] can't update guild member presence: user id "1277540879611068450" not cached
+[12/07/24 19:09:33] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:09:49] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:09:49] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:10:30] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 19:11:15] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:11:18] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:11:18] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/07/24 19:11:48] [ERROR] can't update guild member presence: user id "1235435490598060074" not cached
+[12/07/24 19:12:36] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:13:04] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:13:07] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:13:07] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/07/24 19:14:07] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:14:20] [ERROR] can't update guild member presence: user id "995556074075721728" not cached
+[12/07/24 19:14:24] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:14:25] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:15:37] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:18:51] [ERROR] Discord terminated websocket connection; reason:  (0)
+[12/07/24 19:18:51] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:18:51] [ERROR] Can't connect to Discord gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:20:08] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:20:27] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:20:27] [ERROR] can't update guild member presence: user id "1117395819939758131" not cached
+[12/07/24 19:21:01] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:22:52] [ERROR] Discord terminated websocket connection; reason:  (0)
+[12/07/24 19:22:52] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:22:52] [ERROR] Can't connect to Discord gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:26:28] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:26:30] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:26:42] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/07/24 19:27:36] [ERROR] can't update guild member presence: user id "1247777314666713286" not cached
+[12/07/24 19:27:43] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:27:54] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:27:56] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:27:58] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 19:28:09] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 19:28:42] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 19:28:43] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 19:28:44] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 19:28:46] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 19:28:47] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 19:28:48] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/07/24 19:28:48] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 19:28:53] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/07/24 19:29:04] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:29:08] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:29:09] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:29:40] [ERROR] can't update guild member presence: user id "770185202042404864" not cached
+[12/07/24 19:30:25] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/07/24 19:30:53] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:30:55] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/07/24 19:31:01] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 19:31:02] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/07/24 19:31:03] [ERROR] can't update guild member presence: user id "1246523641521508377" not cached
+[12/08/24 07:46:14] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:46:14] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:46:31] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:46:31] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:48:18] [ERROR] can't update guild member presence: user id "875242954430746657" not cached
+[12/08/24 07:48:18] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 07:48:20] [ERROR] can't update guild member presence: user id "875242954430746657" not cached
+[12/08/24 07:48:21] [ERROR] can't update guild member presence: user id "875242954430746657" not cached
+[12/08/24 07:48:24] [ERROR] can't update guild member presence: user id "875242954430746657" not cached
+[12/08/24 07:48:36] [ERROR] can't update guild member presence: user id "875242954430746657" not cached
+[12/08/24 07:49:11] [ERROR] can't update guild member presence: user id "1276879736949182527" not cached
+[12/08/24 07:49:51] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 07:52:17] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 07:53:27] [ERROR] can't update guild member presence: user id "1309884837821153342" not cached
+[12/08/24 07:53:30] [ERROR] can't update guild member presence: user id "1309884837821153342" not cached
+[12/08/24 07:54:34] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:54:34] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:55:50] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 07:55:56] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:55:56] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:57:11] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 07:57:15] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:57:15] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:58:43] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 07:58:47] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:58:47] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:59:02] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 07:59:02] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:00:27] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:00:27] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:01:44] [ERROR] can't update guild member presence: guild id "1268554715336020082" not cached
+[12/08/24 08:01:44] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:01:48] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:01:48] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:01:49] [ERROR] can't update guild member presence: user id "1282354319697641528" not cached
+[12/08/24 08:02:28] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:02:29] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:03:48] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:03:51] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:03:51] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:04:09] [ERROR] can't update guild member presence: user id "1277540879611068450" not cached
+[12/08/24 08:04:16] [ERROR] can't update guild member presence: user id "1277540879611068450" not cached
+[12/08/24 08:04:41] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:04:41] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:05:18] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 08:05:35] [ERROR] can't update guild member presence: user id "819227393721237504" not cached
+[12/08/24 08:05:59] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:06:02] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:06:03] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:07:08] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:07:08] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:08:22] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:08:26] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:08:26] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:08:31] [ERROR] can't update guild member presence: user id "376392809093005343" not cached
+[12/08/24 08:08:36] [ERROR] can't update guild member presence: user id "376392809093005343" not cached
+[12/08/24 08:09:27] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:09:27] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:10:47] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:10:51] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:10:51] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:12:19] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:12:24] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:12:25] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:13:38] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:13:39] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:14:55] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:14:59] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:14:59] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:16:00] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/08/24 08:16:08] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/08/24 08:16:17] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:16:23] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:16:24] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:17:50] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:17:54] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:17:54] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:18:59] [ERROR] can't update guild member presence: user id "770185202042404864" not cached
+[12/08/24 08:19:03] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/08/24 08:19:15] [ERROR] can't update guild member presence: user id "1134508388143870052" not cached
+[12/08/24 08:19:22] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:19:26] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:19:26] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:20:24] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:20:24] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:21:22] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:21:26] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:21:26] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:22:53] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:22:56] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:22:56] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:24:14] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:24:19] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:24:19] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:24:56] [ERROR] can't update guild member presence: user id "741350641724817448" not cached
+[12/08/24 08:25:44] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:25:44] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:27:01] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:27:05] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:27:06] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:28:05] [ERROR] Can't read from Discord websocket gateway: The semaphore timeout period has expired (121)
+[12/08/24 08:28:05] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:28:06] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 08:28:06] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/08/24 08:28:22] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 08:28:44] [WARNING] Error while shutting down SSL on HTTP connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[12/08/24 08:28:47] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:28:47] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 08:29:27] [ERROR] can't update guild member presence: user id "748773168784605234" not cached
+[12/08/24 09:21:23] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:21:23] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:23:54] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:23:54] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:25:11] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 09:25:15] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:25:15] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:26:32] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 09:26:36] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:26:36] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:27:48] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:27:48] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:29:06] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 09:29:10] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:29:10] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:30:27] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 09:30:31] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:30:31] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:31:48] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 09:31:58] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:32:01] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:33:09] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 09:33:16] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:33:16] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:34:30] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 09:34:36] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:34:36] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:34:39] [ERROR] can't update guild member presence: user id "1240302982717898924" not cached
+[12/08/24 09:34:42] [ERROR] can't update guild member presence: user id "1240302982717898924" not cached
+[12/08/24 09:34:50] [ERROR] can't update guild member presence: user id "1092143838082105435" not cached
+[12/08/24 09:35:51] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 09:35:55] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:35:55] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:36:10] [ERROR] can't update guild member presence: user id "1259835538953736265" not cached
+[12/08/24 09:36:10] [ERROR] can't update guild member presence: user id "1134508388143870052" not cached
+[12/08/24 09:37:10] [ERROR] can't update guild member presence: user id "1134508388143870052" not cached
+[12/08/24 09:54:01] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:54:01] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:55:08] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 09:55:18] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 09:55:21] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 09:55:21] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:03:48] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:03:48] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:05:05] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:05:09] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:05:09] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:06:26] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:06:30] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/08/24 10:06:30] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:06:30] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:06:32] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/08/24 10:10:41] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:10:41] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:12:08] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:12:09] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:12:39] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/08/24 10:13:37] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:13:41] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:13:41] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:15:09] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:15:13] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:15:13] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:15:48] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/08/24 10:16:41] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:16:48] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:16:49] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:18:04] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/08/24 10:18:13] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:18:17] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:18:17] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:19:45] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:19:49] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:19:49] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:21:17] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:21:21] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:21:21] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:22:49] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:22:52] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:22:52] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/08/24 10:24:43] [ERROR] can't update guild member presence: user id "1182251477180354560" not cached
+[12/08/24 10:24:43] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 10:25:13] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 10:25:46] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 10:26:37] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 10:26:56] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 10:28:01] [ERROR] Can't read from Discord websocket gateway: The semaphore timeout period has expired (121)
+[12/08/24 10:28:01] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/08/24 10:28:48] [ERROR] can't update guild member presence: user id "1182251477180354560" not cached
+[12/08/24 10:29:28] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 10:30:41] [ERROR] can't update guild member presence: user id "1182251477180354560" not cached
+[12/08/24 10:31:12] [ERROR] can't update guild member presence: user id "1182251477180354560" not cached
+[12/08/24 10:31:27] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 10:31:52] [ERROR] can't update guild member presence: user id "1182251477180354560" not cached
+[12/08/24 10:31:54] [ERROR] can't update guild member presence: user id "1073605635398180864" not cached
+[12/08/24 10:32:03] [ERROR] can't update guild member presence: user id "1182251477180354560" not cached
+[12/08/24 10:32:03] [ERROR] can't update guild member presence: user id "819227393721237504" not cached
+[12/08/24 10:32:04] [ERROR] can't update guild member presence: user id "1182251477180354560" not cached
+[12/08/24 10:32:11] [ERROR] can't update guild member presence: user id "1182251477180354560" not cached
+[12/08/24 10:32:21] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 10:33:38] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/08/24 10:34:22] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 10:35:33] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 10:36:23] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/08/24 10:37:50] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/08/24 10:38:25] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 10:38:43] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 10:40:36] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/08/24 10:41:39] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/08/24 10:42:33] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/08/24 10:42:40] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/08/24 10:43:08] [ERROR] can't update guild member presence: user id "445632617413476373" not cached
+[12/08/24 10:43:40] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 10:44:10] [ERROR] can't update guild member presence: user id "995556074075721728" not cached
+[12/08/24 10:44:33] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/08/24 10:45:32] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 10:45:37] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/08/24 10:45:40] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/08/24 10:47:21] [ERROR] can't update guild member presence: user id "1073605635398180864" not cached
+[12/08/24 10:47:58] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/12/24 11:29:53] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:30:28] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:30:28] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:31:00] [ERROR] can't update guild member presence: user id "1190467263598432417" not cached
+[12/12/24 11:31:01] [ERROR] can't update guild member presence: user id "770185202042404864" not cached
+[12/12/24 11:31:33] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/12/24 11:31:50] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 11:31:54] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:31:54] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:33:21] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 11:33:28] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:33:30] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:34:10] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/12/24 11:34:13] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/12/24 11:34:41] [ERROR] can't update guild member presence: user id "1020490250818175036" not cached
+[12/12/24 11:34:42] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/12/24 11:34:44] [ERROR] can't update guild member presence: user id "1020490250818175036" not cached
+[12/12/24 11:34:48] [ERROR] can't update guild member presence: user id "1020490250818175036" not cached
+[12/12/24 11:34:52] [ERROR] can't update guild member presence: user id "1282329851612627006" not cached
+[12/12/24 11:34:53] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 11:35:01] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:35:01] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:36:12] [ERROR] can't update guild member presence: user id "1290373361406574726" not cached
+[12/12/24 11:36:25] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 11:36:31] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:36:31] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:36:38] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/12/24 11:36:44] [ERROR] can't update guild member presence: user id "977582837291155506" not cached
+[12/12/24 11:36:50] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/12/24 11:37:08] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/12/24 11:37:26] [ERROR] can't update guild member presence: user id "1277540879611068450" not cached
+[12/12/24 11:37:35] [ERROR] can't update guild member presence: user id "1277540879611068450" not cached
+[12/12/24 11:37:45] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[12/12/24 11:37:57] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 11:38:00] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:38:00] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:39:28] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 11:39:32] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:39:33] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:41:03] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:41:03] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:41:27] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/12/24 11:43:02] [ERROR] can't update guild member presence: user id "1276879736949182527" not cached
+[12/12/24 11:43:08] [ERROR] can't update guild member presence: user id "1186154524960895076" not cached
+[12/12/24 11:44:17] [ERROR] can't update guild member presence: user id "1259835538953736265" not cached
+[12/12/24 11:44:39] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 11:44:39] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:04:46] [ERROR] Can't resolve Discord API URL: No such host is known (11001)
+[12/12/24 15:06:02] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:06:02] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:06:07] [ERROR] can't update guild member presence: user id "1250404355601862719" not cached
+[12/12/24 15:07:30] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 15:07:33] [ERROR] can't update guild member presence: user id "990919621819396136" not cached
+[12/12/24 15:07:34] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:07:34] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:07:45] [ERROR] can't update guild member presence: user id "376392809093005343" not cached
+[12/12/24 15:08:24] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/12/24 15:08:29] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/12/24 15:08:30] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/12/24 15:08:46] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/12/24 15:09:01] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 15:09:05] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:09:05] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:09:34] [ERROR] can't update guild member presence: user id "748773168784605234" not cached
+[12/12/24 15:09:39] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:09:39] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:10:32] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 15:10:38] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:10:38] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:11:41] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/12/24 15:11:43] [ERROR] can't update guild member presence: user id "1043032140759183430" not cached
+[12/12/24 15:12:04] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 15:12:08] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:12:08] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:12:18] [ERROR] can't update guild member presence: user id "1309884837821153342" not cached
+[12/12/24 15:12:21] [ERROR] can't update guild member presence: user id "1309884837821153342" not cached
+[12/12/24 15:13:09] [ERROR] can't update guild member presence: user id "1306153936788525097" not cached
+[12/12/24 15:13:36] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 15:13:39] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:13:39] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:13:45] [ERROR] can't update guild member presence: user id "1273886331973537820" not cached
+[12/12/24 15:14:21] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/12/24 15:23:13] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:23:13] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:24:59] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/12/24 15:25:08] [ERROR] can't update guild member presence: user id "748773168784605234" not cached
+[12/12/24 15:25:37] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/12/24 15:26:08] [ERROR] can't update guild member presence: user id "1284841564945776662" not cached
+[12/12/24 15:26:19] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/12/24 15:26:29] [ERROR] can't update guild member presence: user id "1277255486688989269" not cached
+[12/12/24 15:27:21] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:27:21] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:27:41] [ERROR] can't update guild member presence: user id "819227393721237504" not cached
+[12/12/24 15:28:41] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 15:28:46] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:28:46] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:30:03] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 15:30:07] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:30:07] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 15:31:07] [ERROR] Can't read from Discord websocket gateway: The semaphore timeout period has expired (121)
+[12/12/24 15:31:07] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 15:31:16] [ERROR] can't update guild member presence: user id "1273886331973537820" not cached
+[12/12/24 18:10:06] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 18:10:06] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 18:11:09] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 18:11:13] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 18:11:13] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 18:12:52] [ERROR] can't update guild member presence: user id "1250078662657704070" not cached
+[12/12/24 18:15:13] [ERROR] Can't establish secured connection to Discord gateway: The socket was closed due to a timeout (1)
+[12/12/24 18:16:26] [ERROR] Discord terminated websocket connection; reason:  (0)
+[12/12/24 18:16:26] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 18:16:26] [ERROR] Can't connect to Discord gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 18:17:27] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 18:17:27] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 18:17:46] [ERROR] can't update guild member presence: user id "1029055026687119360" not cached
+[12/12/24 18:18:43] [ERROR] can't update guild member presence: user id "1250891104098979943" not cached
+[12/12/24 18:18:46] [ERROR] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[12/12/24 18:18:49] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'
+[12/12/24 18:18:49] [WARNING] Unknown gateway event 'GUILD_MEMBERS_CHUNK'

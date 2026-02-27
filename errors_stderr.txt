@@ -1,0 +1,530 @@
+.\pawno\include\mxINI.inc(344) : warning 219: local variable "slot" shadows a variable at a preceding level
+.\pawno\include\mxINI.inc(380) : warning 219: local variable "slot" shadows a variable at a preceding level
+.\pawno\include\mxINI.inc(395) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\mxINI.inc(477) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(459) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(520) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(939) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(1195) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(1466) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(1525) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(1741) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(1907) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(2078) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(2191) : warning 219: local variable "result" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(2199) : warning 219: local variable "result" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(2552) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(2554) : warning 219: local variable "result" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(2566) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(2581) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(2585) : warning 219: local variable "result" shadows a variable at a preceding level
+.\pawno\include\sqlitei.inc(2600) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\foreach.inc(631) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\foreach.inc(740) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\foreach.inc(884) : warning 219: local variable "count" shadows a variable at a preceding level
+.\pawno\include\foreach.inc(922) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\foreach.inc(948) : warning 219: local variable "count" shadows a variable at a preceding level
+.\pawno\include\foreach.inc(982) : warning 219: local variable "count" shadows a variable at a preceding level
+.\pawno\include\foreach.inc(1004) : warning 219: local variable "count" shadows a variable at a preceding level
+.\pawno\include\foreach.inc(1055) : warning 219: local variable "count" shadows a variable at a preceding level
+.\pawno\include\foreach.inc(1104) : warning 219: local variable "slot" shadows a variable at a preceding level
+.\pawno\include\sscanf2.inc(155) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\sscanf2.inc(199) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\timestamptodate.inc(38) : warning 219: local variable "days" shadows a variable at a preceding level
+.\pawno\include\timestamptodate.inc(38) : warning 219: local variable "hour" shadows a variable at a preceding level
+.\pawno\include\timestamptodate.inc(38) : warning 219: local variable "minute" shadows a variable at a preceding level
+.\pawno\include\timestamptodate.inc(38) : warning 219: local variable "second" shadows a variable at a preceding level
+.\pawno\include\timestamptodate.inc(64) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\timestamptodate.inc(102) : warning 219: local variable "str" shadows a variable at a preceding level
+.\pawno\include\md5.inc(92) : warning 219: local variable "str" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(377) : warning 219: local variable "x" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(377) : warning 219: local variable "y" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(379) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(389) : warning 219: local variable "x" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(389) : warning 219: local variable "y" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(391) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(400) : warning 219: local variable "x" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(400) : warning 219: local variable "y" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(402) : warning 219: local variable "str" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(408) : warning 219: local variable "x" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(408) : warning 219: local variable "y" shadows a variable at a preceding level
+.\pawno\include\zonaname.inc(410) : warning 219: local variable "str" shadows a variable at a preceding level
+.\pawno\include\mxdate.inc(119) : warning 219: local variable "h" shadows a variable at a preceding level
+.\pawno\include\mSelection.inc(207) : warning 219: local variable "x" shadows a variable at a preceding level
+.\pawno\include\mSelection.inc(222) : warning 219: local variable "x" shadows a variable at a preceding level
+.\pawno\include\mSelection.inc(426) : warning 219: local variable "x" shadows a variable at a preceding level
+.\pawno\include\mSelection.inc(556) : warning 219: local variable "x" shadows a variable at a preceding level
+.\pawno\include\mSelection.inc(563) : warning 219: local variable "item_id" shadows a variable at a preceding level
+.\pawno\include\mSelection.inc(572) : warning 219: local variable "item_id" shadows a variable at a preceding level
+.\pawno\include\mSelection.inc(598) : warning 219: local variable "str" shadows a variable at a preceding level
+.\pawno\include\mSelection.inc(656) : warning 219: local variable "i" shadows a variable at a preceding level
+.\pawno\include\mSelection.inc(698) : warning 219: local variable "index" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(319) : warning 219: local variable "dist" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(320) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(606) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(606) : warning 219: local variable "y" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(606) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(613) : warning 219: local variable "dist" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(614) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(688) : warning 219: local variable "count" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(690) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(702) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(1098) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(109) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(140) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(150) : warning 219: local variable "count" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(152) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(172) : warning 219: local variable "model" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(172) : warning 219: local variable "amount" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(207) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(228) : warning 219: local variable "model" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(228) : warning 219: local variable "amount" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(254) : warning 219: local variable "model" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(295) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(313) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(328) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(481) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\INV.pwn(481) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\INV.pwn(481) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\INV.pwn(481) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\INV.pwn(481) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\INV.pwn(481) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\INV.pwn(1873) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(1874) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(1920) : warning 219: local variable "model" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(1938) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\INV.pwn(1948) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\NOTIF.pwn(18) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\NOTIF.pwn(43) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\NOTIF.pwn(45) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\NOTIF.pwn(53) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\NOTIF.pwn(62) : warning 219: local variable "index" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\NOTIF.pwn(62) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\NOTIF.pwn(65) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(37) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(59) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(71) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(88) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(124) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(138) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(140) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(161) : warning 219: local variable "slot" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(196) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(210) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(213) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(295) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(307) : warning 219: local variable "money" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(318) : warning 219: local variable "amount" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(329) : warning 219: local variable "amount" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\WORKSHOP.pwn(371) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\GATE.pwn(53) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\GATE.pwn(78) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\GATE.pwn(95) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\GATE.pwn(95) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\GATE.pwn(297) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DOORS.pwn(29) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DOORS.pwn(66) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DOORS.pwn(70) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DOORS.pwn(106) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DOORS.pwn(133) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DOORS.pwn(134) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DOORS.pwn(138) : warning 219: local variable "rand" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DOORS.pwn(164) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DOORS.pwn(222) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTCAR.pwn(23) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTCAR.pwn(40) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTCAR.pwn(57) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTCAR.pwn(59) : warning 219: local variable "X" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTCAR.pwn(59) : warning 219: local variable "Y" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTCAR.pwn(59) : warning 219: local variable "Z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTCAR.pwn(87) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\RENTCAR.pwn(102) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTBOAT.pwn(23) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTBOAT.pwn(40) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTBOAT.pwn(57) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTBOAT.pwn(59) : warning 219: local variable "X" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTBOAT.pwn(59) : warning 219: local variable "Y" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTBOAT.pwn(59) : warning 219: local variable "Z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\RENTBOAT.pwn(87) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\RENTBOAT.pwn(102) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\FUELBIZ.pwn(23) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\FUELBIZ.pwn(40) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\FUELBIZ.pwn(57) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\FUELBIZ.pwn(59) : warning 219: local variable "X" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\FUELBIZ.pwn(59) : warning 219: local variable "Y" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\FUELBIZ.pwn(59) : warning 219: local variable "Z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\FUELBIZ.pwn(87) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\FUELBIZ.pwn(102) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\ROBBANK.pwn(37) : error 048: array dimensions do not match
+.\gamemodes\BASEMODE\FITUR\ROBBANK.pwn(100) : warning 213: tag mismatch
+.\gamemodes\BASEMODE\FITUR\ROBBANK.pwn(100) : warning 213: tag mismatch
+.\gamemodes\BASEMODE\FITUR\ROBBANK.pwn(100) : warning 213: tag mismatch
+.\gamemodes\BASEMODE\FITUR\ROBBANK.pwn(100) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\ANIM.pwn(187) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\ANIM.pwn(672) : warning 219: local variable "number" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\ANIM.pwn(940) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\BLACKMARKET.pwn(23) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\BLACKMARKET.pwn(40) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\BLACKMARKET.pwn(57) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\BLACKMARKET.pwn(59) : warning 219: local variable "X" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\BLACKMARKET.pwn(59) : warning 219: local variable "Y" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\BLACKMARKET.pwn(59) : warning 219: local variable "Z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\BLACKMARKET.pwn(87) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\BLACKMARKET.pwn(102) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\JOBS\INDIHOME.pwn(37) : warning 219: local variable "rand" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\JOBS\GARAM.pwn(83) : warning 219: local variable "rand" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\JOBS\GARAM.pwn(100) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\JOBS\GARAM.pwn(100) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(406) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(406) : warning 219: local variable "y" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(406) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(409) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(423) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(447) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(521) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(523) : warning 219: local variable "X" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(523) : warning 219: local variable "Y" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(523) : warning 219: local variable "Z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(525) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(530) : warning 219: local variable "rand" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(554) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(584) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(629) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(649) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\HOUSE.pwn(671) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FUNCSAVE.pwn(3) : error 048: array dimensions do not match
+.\gamemodes\BASEMODE\FUNCSAVE.pwn(4) : error 048: array dimensions do not match
+.\gamemodes\BASEMODE\FUNCSAVE.pwn(5) : error 048: array dimensions do not match
+.\gamemodes\BASEMODE\FUNCSAVE.pwn(6) : error 048: array dimensions do not match
+.\gamemodes\BASEMODE\FUNCSAVE.pwn(7) : error 048: array dimensions do not match
+.\gamemodes\BASEMODE\FUNCSAVE.pwn(8) : error 048: array dimensions do not match
+.\gamemodes\BASEMODE\FUNCSAVE.pwn(9) : error 048: array dimensions do not match
+.\gamemodes\BASEMODE\FUNCSAVE.pwn(10) : error 048: array dimensions do not match
+.\gamemodes\BASEMODE\FUNCSAVE.pwn(62) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\DYFRAKSI.pwn(24) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DYFRAKSI.pwn(192) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DYFRAKSI.pwn(348) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DYFRAKSI.pwn(350) : warning 219: local variable "X" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DYFRAKSI.pwn(350) : warning 219: local variable "Y" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DYFRAKSI.pwn(350) : warning 219: local variable "Z" shadows a variable at a preceding level
+.\gamemodes\BASEMODE\FITUR\DYFRAKSI.pwn(379) : warning 202: number of arguments does not match definition
+.\gamemodes\BASEMODE\FITUR\DYFRAKSI.pwn(394) : warning 219: local variable "query" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4840) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4860) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4860) : warning 219: local variable "y" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4860) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4864) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4900) : warning 219: local variable "color" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4904) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4937) : warning 219: local variable "amount" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4965) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4970) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4970) : warning 219: local variable "y" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4970) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(4980) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(4988) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(5001) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5001) : warning 219: local variable "y" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5001) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5005) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5025) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5042) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5083) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5200) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5356) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5439) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5494) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5494) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5496) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5496) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5514) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5542) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5542) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5547) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5547) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5576) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5578) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5580) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5593) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5610) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5614) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5614) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5649) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5651) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5651) : warning 219: local variable "h" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5653) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5654) : warning 219: local variable "y" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5655) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5667) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5667) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5668) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5668) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5996) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(5996) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(6414) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(6426) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23097) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23244) : warning 219: local variable "amount" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23269) : warning 219: local variable "amount" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23286) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23286) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23286) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23286) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23286) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23286) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23389) : warning 219: local variable "u_car" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23397) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23425) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(23441) : warning 219: local variable "u_car" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23449) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23461) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(23477) : warning 219: local variable "u_car" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23485) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23497) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(23515) : warning 219: local variable "u_car" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23523) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23537) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(23552) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(23577) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23640) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23642) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23643) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23644) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23645) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23646) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23647) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23648) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23649) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23650) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23670) : warning 219: local variable "car_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23676) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23680) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23684) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23690) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23704) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23725) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23729) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23737) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23737) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23737) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23737) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23737) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23737) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23748) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23762) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23764) : warning 219: local variable "count" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23766) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23774) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23774) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23774) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23774) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23774) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23774) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23781) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23788) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23796) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23798) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23810) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23810) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23810) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23810) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23810) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23810) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23815) : warning 219: local variable "car_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23819) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23832) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23832) : warning 219: local variable "car_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23834) : warning 219: local variable "model" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23844) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23844) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23844) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23844) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23844) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23844) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23849) : warning 219: local variable "h_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23855) : warning 219: local variable "x" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23855) : warning 219: local variable "y" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23855) : warning 219: local variable "z" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23873) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23904) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23904) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23904) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23904) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23904) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23904) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23922) : warning 219: local variable "page" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23929) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23937) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23937) : warning 219: local variable "player_name" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23939) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23960) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23960) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23960) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23960) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23960) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23960) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(23969) : warning 219: local variable "sql_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23982) : warning 219: local variable "page" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23985) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23993) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(23995) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24011) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24011) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24011) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24011) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24011) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24011) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24016) : warning 219: local variable "h_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24020) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24041) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24041) : warning 219: local variable "money" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24076) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24120) : warning 219: local variable "sql_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24135) : warning 219: local variable "b_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24141) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24141) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24152) : warning 219: local variable "b_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24162) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24162) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24175) : warning 219: local variable "a_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24181) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(24195) : warning 219: local variable "h_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24233) : warning 219: local variable "rand" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24248) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24266) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24266) : warning 219: local variable "amount" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24266) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24280) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24292) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24292) : warning 219: local variable "ammo" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24292) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24296) : warning 219: local variable "weapon_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24310) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24310) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24338) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24338) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24338) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24338) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24338) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24338) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24383) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24383) : warning 219: local variable "count" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24385) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24389) : warning 219: local variable "dist" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24399) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24399) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24399) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24399) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24399) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24399) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24411) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24465) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24469) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24471) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24477) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24477) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24477) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24477) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24477) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24477) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24484) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24505) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24505) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24505) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24505) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24505) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24505) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24516) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24516) : warning 219: local variable "count" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24518) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24522) : warning 219: local variable "b_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24532) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24532) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24532) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24532) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24532) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24532) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24541) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24577) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24613) : warning 219: local variable "to_player" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24654) : warning 219: local variable "m_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24658) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24658) : warning 219: local variable "count" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24660) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24672) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24672) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24672) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24672) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24672) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24672) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24680) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24680) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24680) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24680) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24680) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24680) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24687) : warning 219: local variable "vehicleid" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24698) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(24708) : warning 219: local variable "result" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24716) : warning 219: local variable "str" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24718) : warning 219: local variable "i" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24729) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24729) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24729) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24729) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24729) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24729) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24738) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24738) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24738) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24738) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24738) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24738) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24785) : error 035: argument type mismatch (argument 2)
+.\gamemodes\GM.pwn(24793) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24889) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24889) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24903) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(24916) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24916) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24940) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(24951) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24958) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24958) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24959) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24959) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24964) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(24965) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(24969) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24973) : warning 219: local variable "b_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24984) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24984) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24985) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24985) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(24992) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(24996) : warning 219: local variable "a_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(25008) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25008) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25009) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25009) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25016) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(25020) : warning 219: local variable "h_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(25031) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25031) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25032) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25032) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25039) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(25041) : warning 219: local variable "weapon_id" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(25042) : warning 219: local variable "ammo" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(25051) : error 035: argument type mismatch (argument 2)
+.\gamemodes\GM.pwn(25053) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25053) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25054) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25054) : warning 202: number of arguments does not match definition
+.\gamemodes\GM.pwn(25061) : warning 219: local variable "price" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(25063) : warning 219: local variable "amount" shadows a variable at a preceding level
+.\gamemodes\GM.pwn(25074) : error 048: array dimensions do not match
+.\gamemodes\GM.pwn(25075) : error 048: array dimensions do not match
+
+Compilation aborted.
+

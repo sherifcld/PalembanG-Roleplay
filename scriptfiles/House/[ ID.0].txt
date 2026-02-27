@@ -1,0 +1,11 @@
+Owner={ff0000}No Owner
+NamaHouse=AgusSampXD
+Owned=0
+Locked=1
+Price=10000
+PosX=-75.310386
+PosY=-1581.008789
+PosZ=3.437500
+UID=0
+Type=3
+Vir=7662

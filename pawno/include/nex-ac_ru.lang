@@ -1,0 +1,31 @@
+//For Nex-AC v1.0 (0.3.7-R1)
+ 
+#if defined _nex_ac_lang_included
+        #endinput
+#endif
+#define _nex_ac_lang_included
+ 
+new
+        VERSION_WARNING[] =             "[Nex-AC] Ini sama dengan yang ada di dunia",
+        CFG_OPENING_ERROR[] =   "[Nex-AC] Tentang sinergi/hasil %s!",
+ 
+#if defined DEBUG
+        DEBUG_CODE_1[] =                "[Nex-AC debug] ID %d sistem %d file. Public ID: %d",
+        DEBUG_CODE_2[] =                "[Nex-AC debug] Ini adalah %d ID nya. Penilaian: %s",
+        DEBUG_CODE_3[] =                "[Nex-AC debug] ID %d sys %d sys 1 alamat IP",
+        DEBUG_CODE_4[] =                "[Nex-AC debug] Koneksi baru a RCON n Koneksi sinkron IP %s %s",
+        DEBUG_CODE_5[] =                "[Nex-AC debug] ID %d sinonim NOP %s",
+#endif
+ 
+        LOADED_MSG_1[] =                " Aluminium!",
+        LOADED_MSG_2[] =                " Penilaian dunia: %s",
+        LOADED_MSG_3[] =                " Penulis: AgusSamp",
+ 
+        STATS_STRING_1[] =              " Canggih Nex-AC",
+        STATS_STRING_2[] =              " AgusSamp dan AgusSamp:",
+        STATS_STRING_3[] =              "  %d sistemologi",
+        STATS_STRING_4[] =              "  %d format",
+        STATS_STRING_5[] =              "  %d Yurka",
+        STATS_STRING_6[] =              "  %d fauna berbakti",
+        STATS_STRING_7[] =              "  %d AgusSamp",
+        STATS_STRING_8[] =              " Halo %d AgusSamp";
